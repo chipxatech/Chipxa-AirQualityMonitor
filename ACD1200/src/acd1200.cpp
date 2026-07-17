@@ -1,5 +1,9 @@
+// ============================================================================
 // ACD1200.cpp
-// ==========================
+// Thư viện giao tiếp cảm biến CO2 ACD1200
+// Phát triển bởi Công ty TNHH Công nghệ Chipxa (Chipxa Technology Co., Ltd.)
+// Website: https://chipxa.com | Email: contact@chipxa.com
+// ============================================================================
 #include "ACD1200.h"
 
 const uint8_t ACD1200::CMD_READ_CO2[5] = {

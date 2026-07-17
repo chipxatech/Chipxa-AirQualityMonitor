@@ -1,5 +1,9 @@
+// ============================================================================
 // ACD1200.h
-// ==========================
+// Thư viện giao tiếp cảm biến CO2 ACD1200
+// Phát triển bởi Công ty TNHH Công nghệ Chipxa (Chipxa Technology Co., Ltd.)
+// Website: https://chipxa.com | Email: contact@chipxa.com
+// ============================================================================
 #ifndef ACD1200_H
 #define ACD1200_H
 

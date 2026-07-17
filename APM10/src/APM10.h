@@ -1,3 +1,9 @@
+// ============================================================================
+// APM10.h
+// Thư viện giao tiếp cảm biến bụi mịn APM10 (PM1.0, PM2.5, PM10)
+// Phát triển bởi Công ty TNHH Công nghệ Chipxa (Chipxa Technology Co., Ltd.)
+// Website: https://chipxa.com | Email: contact@chipxa.com
+// ============================================================================
 #pragma once
 #include "Arduino.h"
 #include "Wire.h"
